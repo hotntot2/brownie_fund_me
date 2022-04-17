@@ -1,0 +1,6 @@
+{
+    "solidity.compileUsingRemoteVersion": "v0.6.12+commit.27d51765",
+    "solidity.remappings": [
+        "@chainlink/=C:/Users/algoslave/.brownie/packages/smartcontractkit/chainlink-brownie-contracts@1.1.1",
+    ]
+}
